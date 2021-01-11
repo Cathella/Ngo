@@ -1,0 +1,20 @@
+* {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+}
+
+.bg-dark-blue {
+  background: #365075;
+}
+
+.bg-light-blue {
+  background: #5eb1d1;
+}
+
+.bg-light-green {
+  background: #65cabc;
+}
+
+.bg-red {
+  background: #f15b43;
+}
