@@ -3,6 +3,10 @@
   font-weight: 600;
 }
 
+nav li {
+  padding: 0 1em;
+}
+
 .bg-dark-blue {
   background: #365075;
 }
