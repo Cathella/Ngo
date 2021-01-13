@@ -23,6 +23,10 @@ nav li {
   background: #f15b43;
 }
 
+.footer-bg {
+  background: #263a5b;
+}
+
 .intro-bg {
   background-image: url("img/bg4.jpeg");
   background-size: cover;
