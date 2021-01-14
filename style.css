@@ -118,3 +118,16 @@ nav li {
     height: 400px;
   }
 }
+
+@media only screen and (max-width: 470px) {
+  .intro-bg4 .m-5,
+  .intro-half .m-5 {
+    margin: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  h1 {
+    font-size: 1.8em;
+  }
+}
